@@ -1968,7 +1968,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bb40def4-5c8c-41fa-af7f-cbd9ea4d0093)
   )
-  (label "~D5" (at 179.07 120.65 0) (fields_autoplaced)
+  (label "D4" (at 179.07 120.65 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d90e7611-5851-462e-af94-c1596b009022)
   )
